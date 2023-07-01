@@ -6,4 +6,3 @@ Titanic Dataset
 4. Automated Hyperparameter Optimization 
 5. Stacking & Ensemble Learning 
 6. Prediction for a New Observation 
-7. Scores 
